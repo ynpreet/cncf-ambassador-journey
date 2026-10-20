@@ -17,20 +17,20 @@ for an `Assisted-by:` commit trailer — we follow that everywhere.
 
 | # | Project | Issue | Type | Status |
 |---|---------|-------|------|--------|
-| 1 | OpenTelemetry Python Contrib | [#4202 Document OTEL_SEMCONV_STABILITY_OPT_IN](https://github.com/open-telemetry/opentelemetry-python-contrib/issues/4202) | docs (Python) | picked |
-| 2 | OpenTelemetry Python Contrib | [#2642](https://github.com/open-telemetry/opentelemetry-python-contrib/issues/2642) | docs (Python) | picked |
-| 3 | OpenTelemetry Python Contrib | [#2556](https://github.com/open-telemetry/opentelemetry-python-contrib/issues/2556) | docs (Python) | picked |
+| 1 | OpenTelemetry Python Contrib | [#4202 Document OTEL_SEMCONV_STABILITY_OPT_IN](https://github.com/open-telemetry/opentelemetry-python-contrib/issues/4202) | docs (Python) | skipped — already fixed by open PR #5067 |
+| 2 | OpenTelemetry Python Contrib | [#2642](https://github.com/open-telemetry/opentelemetry-python-contrib/issues/2642) | docs (Python) | skipped — already fixed by open PR #5013 |
+| 3 | OpenTelemetry Python Contrib | [#2556](https://github.com/open-telemetry/opentelemetry-python-contrib/issues/2556) | docs (Python) | skipped — already fixed by open PR #4862 |
 | 4 | OpenTelemetry Python | [#1059 Add support for OTEL_LOG_LEVEL env variable](https://github.com/open-telemetry/opentelemetry-python/issues/1059) | code (Python) | picked |
 | 5 | OpenTelemetry Python | [#1559](https://github.com/open-telemetry/opentelemetry-python/issues/1559) | code (Python) | picked |
 | 6 | Kepler | [#2604](https://github.com/sustainable-computing-io/kepler/issues/2604) | docs | skipped — already fixed by open PR #2614 |
-| 7 | Kepler | [#2601](https://github.com/sustainable-computing-io/kepler/issues/2601) | docs | picked |
-| 8 | Kepler | [#2429](https://github.com/sustainable-computing-io/kepler/issues/2429) | docs | picked |
+| 7 | Kepler | [#2601](https://github.com/sustainable-computing-io/kepler/issues/2601) | docs | skipped — already fixed by open PR #2610 |
+| 8 | Kepler | [#2429](https://github.com/sustainable-computing-io/kepler/issues/2429) | docs | skipped — assigned, and open PR #2503 implements it |
 | 9 | Prometheus (docs) | [#3066](https://github.com/prometheus/docs/issues/3066) | docs | skipped — already fixed by open PR #3089 |
 | 10 | Prometheus (docs) | [#2014](https://github.com/prometheus/docs/issues/2014) | docs | picked |
 | 11 | OpenTelemetry docs site | [#11927](https://github.com/open-telemetry/opentelemetry.io/issues/11927) | docs | picked |
 | 12 | OpenTelemetry docs site | [#9427](https://github.com/open-telemetry/opentelemetry.io/issues/9427) | docs | picked |
 | 13 | OpenTelemetry docs site | [#9046](https://github.com/open-telemetry/opentelemetry.io/issues/9046) | docs/localisation | picked |
-| 14 | Inspektor Gadget | [#5634](https://github.com/inspektor-gadget/inspektor-gadget/issues/5634) | docs guide | picked |
+| 14 | Inspektor Gadget | [#5634](https://github.com/inspektor-gadget/inspektor-gadget/issues/5634) | docs guide | in progress — guide prepared; PR opens once the fork exists |
 | 15 | Thanos | [#8794](https://github.com/thanos-io/thanos/issues/8794) | docs/code | picked |
 | 16 | Thanos | [#8506](https://github.com/thanos-io/thanos/issues/8506) | docs/code | picked |
 | 17 | Cortex | [#7064](https://github.com/cortexproject/cortex/issues/7064) | docs/code | picked |
@@ -44,3 +44,5 @@ Projects covered: OpenTelemetry (Python, Python Contrib, docs site, Collector Co
 Kepler, Prometheus, Inspektor Gadget, Thanos, Cortex, Jaeger, Perses, Fluentd — **10 projects**.
 
 Status key: `picked` → `in progress` → `PR open` → `merged`
+| 23 | Inspektor Gadget | [#5631 trace_lsm Guide](https://github.com/inspektor-gadget/inspektor-gadget/issues/5631) | docs guide | in progress — guide prepared; PR opens once the fork exists |
+| 24 | Inspektor Gadget | [#5632 trace_malloc Guide](https://github.com/inspektor-gadget/inspektor-gadget/issues/5632) | docs guide | skipped — already fixed by open PR #5858 |
