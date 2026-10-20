@@ -30,7 +30,7 @@ for an `Assisted-by:` commit trailer — we follow that everywhere.
 | 11 | OpenTelemetry docs site | [#11927](https://github.com/open-telemetry/opentelemetry.io/issues/11927) | docs | picked |
 | 12 | OpenTelemetry docs site | [#9427](https://github.com/open-telemetry/opentelemetry.io/issues/9427) | docs | picked |
 | 13 | OpenTelemetry docs site | [#9046](https://github.com/open-telemetry/opentelemetry.io/issues/9046) | docs/localisation | picked |
-| 14 | Inspektor Gadget | [#5634](https://github.com/inspektor-gadget/inspektor-gadget/issues/5634) | docs guide | in progress — guide prepared; PR opens once the fork exists |
+| 14 | Inspektor Gadget | [#5634](https://github.com/inspektor-gadget/inspektor-gadget/issues/5634) | docs guide | PR open — https://github.com/inspektor-gadget/inspektor-gadget/pull/5895 (DCO check pending: sign-off email differs from commit author noreply — fix ready when he decides) |
 | 15 | Thanos | [#8794](https://github.com/thanos-io/thanos/issues/8794) | docs/code | picked |
 | 16 | Thanos | [#8506](https://github.com/thanos-io/thanos/issues/8506) | docs/code | picked |
 | 17 | Cortex | [#7064](https://github.com/cortexproject/cortex/issues/7064) | docs/code | picked |
@@ -44,5 +44,5 @@ Projects covered: OpenTelemetry (Python, Python Contrib, docs site, Collector Co
 Kepler, Prometheus, Inspektor Gadget, Thanos, Cortex, Jaeger, Perses, Fluentd — **10 projects**.
 
 Status key: `picked` → `in progress` → `PR open` → `merged`
-| 23 | Inspektor Gadget | [#5631 trace_lsm Guide](https://github.com/inspektor-gadget/inspektor-gadget/issues/5631) | docs guide | in progress — guide prepared; PR opens once the fork exists |
+| 23 | Inspektor Gadget | [#5631 trace_lsm Guide](https://github.com/inspektor-gadget/inspektor-gadget/issues/5631) | docs guide | PR open — https://github.com/inspektor-gadget/inspektor-gadget/pull/5896 (DCO check pending: sign-off email differs from commit author noreply — fix ready when he decides) |
 | 24 | Inspektor Gadget | [#5632 trace_malloc Guide](https://github.com/inspektor-gadget/inspektor-gadget/issues/5632) | docs guide | skipped — already fixed by open PR #5858 |
