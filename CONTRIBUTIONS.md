@@ -22,10 +22,10 @@ for an `Assisted-by:` commit trailer — we follow that everywhere.
 | 3 | OpenTelemetry Python Contrib | [#2556](https://github.com/open-telemetry/opentelemetry-python-contrib/issues/2556) | docs (Python) | picked |
 | 4 | OpenTelemetry Python | [#1059 Add support for OTEL_LOG_LEVEL env variable](https://github.com/open-telemetry/opentelemetry-python/issues/1059) | code (Python) | picked |
 | 5 | OpenTelemetry Python | [#1559](https://github.com/open-telemetry/opentelemetry-python/issues/1559) | code (Python) | picked |
-| 6 | Kepler | [#2604](https://github.com/sustainable-computing-io/kepler/issues/2604) | docs | picked |
+| 6 | Kepler | [#2604](https://github.com/sustainable-computing-io/kepler/issues/2604) | docs | skipped — already fixed by open PR #2614 |
 | 7 | Kepler | [#2601](https://github.com/sustainable-computing-io/kepler/issues/2601) | docs | picked |
 | 8 | Kepler | [#2429](https://github.com/sustainable-computing-io/kepler/issues/2429) | docs | picked |
-| 9 | Prometheus (docs) | [#3066](https://github.com/prometheus/docs/issues/3066) | docs | picked |
+| 9 | Prometheus (docs) | [#3066](https://github.com/prometheus/docs/issues/3066) | docs | skipped — already fixed by open PR #3089 |
 | 10 | Prometheus (docs) | [#2014](https://github.com/prometheus/docs/issues/2014) | docs | picked |
 | 11 | OpenTelemetry docs site | [#11927](https://github.com/open-telemetry/opentelemetry.io/issues/11927) | docs | picked |
 | 12 | OpenTelemetry docs site | [#9427](https://github.com/open-telemetry/opentelemetry.io/issues/9427) | docs | picked |
