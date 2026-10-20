@@ -26,14 +26,14 @@ for an `Assisted-by:` commit trailer — we follow that everywhere.
 | 7 | Kepler | [#2601](https://github.com/sustainable-computing-io/kepler/issues/2601) | docs | skipped — already fixed by open PR #2610 |
 | 8 | Kepler | [#2429](https://github.com/sustainable-computing-io/kepler/issues/2429) | docs | skipped — assigned, and open PR #2503 implements it |
 | 9 | Prometheus (docs) | [#3066](https://github.com/prometheus/docs/issues/3066) | docs | skipped — already fixed by open PR #3089 |
-| 10 | Prometheus (docs) | [#2014](https://github.com/prometheus/docs/issues/2014) | docs | picked |
-| 11 | OpenTelemetry docs site | [#11927](https://github.com/open-telemetry/opentelemetry.io/issues/11927) | docs | picked |
-| 12 | OpenTelemetry docs site | [#9427](https://github.com/open-telemetry/opentelemetry.io/issues/9427) | docs | picked |
+| 10 | Prometheus (docs) | [#2014](https://github.com/prometheus/docs/issues/2014) | docs | skipped — claimed by other contributors in-thread (Aug 2025, Feb 2026); re-verified Oct 20 |
+| 11 | OpenTelemetry docs site | [#11927](https://github.com/open-telemetry/opentelemetry.io/issues/11927) | docs | skipped — fix needs LFX platform access/automation, not a docs-only change; re-verified Oct 20 |
+| 12 | OpenTelemetry docs site | [#9427](https://github.com/open-telemetry/opentelemetry.io/issues/9427) | docs | skipped — Portuguese localization tracker, not a fit; re-verified Oct 20 |
 | 13 | OpenTelemetry docs site | [#9046](https://github.com/open-telemetry/opentelemetry.io/issues/9046) | docs/localisation | picked |
 | 14 | Inspektor Gadget | [#5634](https://github.com/inspektor-gadget/inspektor-gadget/issues/5634) | docs guide | PR open — https://github.com/inspektor-gadget/inspektor-gadget/pull/5897 — DCO check PASSING (replaced #5895, now closed; commits re-signed as Preet Mehta <preetmehta1995@gmail.com> Oct 20) |
-| 15 | Thanos | [#8794](https://github.com/thanos-io/thanos/issues/8794) | docs/code | picked |
+| 15 | Thanos | [#8794](https://github.com/thanos-io/thanos/issues/8794) | docs/code | scoped Oct 20: Go feature (native --rule-file auto-reload) — larger build, queued |
 | 16 | Thanos | [#8506](https://github.com/thanos-io/thanos/issues/8506) | docs/code | picked |
-| 17 | Cortex | [#7064](https://github.com/cortexproject/cortex/issues/7064) | docs/code | picked |
+| 17 | Cortex | [#7064](https://github.com/cortexproject/cortex/issues/7064) | docs/code | scoped Oct 20: Go feature (AutoMemLimit, mirrors Prometheus) — larger build, queued |
 | 18 | Jaeger | [#9717](https://github.com/jaegertracing/jaeger/issues/9717) | code (4 small PRs) | picked |
 | 19 | Jaeger | [#9474 Elasticsearch/OpenSearch schema](https://github.com/jaegertracing/jaeger/issues/9474) | code — data skills | picked |
 | 20 | Perses | [#4034](https://github.com/perses/perses/issues/4034) | docs/code | picked |
