@@ -30,7 +30,7 @@ for an `Assisted-by:` commit trailer — we follow that everywhere.
 | 11 | OpenTelemetry docs site | [#11927](https://github.com/open-telemetry/opentelemetry.io/issues/11927) | docs | picked |
 | 12 | OpenTelemetry docs site | [#9427](https://github.com/open-telemetry/opentelemetry.io/issues/9427) | docs | picked |
 | 13 | OpenTelemetry docs site | [#9046](https://github.com/open-telemetry/opentelemetry.io/issues/9046) | docs/localisation | picked |
-| 14 | Inspektor Gadget | [#5634](https://github.com/inspektor-gadget/inspektor-gadget/issues/5634) | docs guide | PR open — https://github.com/inspektor-gadget/inspektor-gadget/pull/5895 (DCO check pending: sign-off email differs from commit author noreply — fix ready when he decides) |
+| 14 | Inspektor Gadget | [#5634](https://github.com/inspektor-gadget/inspektor-gadget/issues/5634) | docs guide | PR open — https://github.com/inspektor-gadget/inspektor-gadget/pull/5897 — DCO check PASSING (replaced #5895, now closed; commits re-signed as Preet Mehta <preetmehta1995@gmail.com> Oct 20) |
 | 15 | Thanos | [#8794](https://github.com/thanos-io/thanos/issues/8794) | docs/code | picked |
 | 16 | Thanos | [#8506](https://github.com/thanos-io/thanos/issues/8506) | docs/code | picked |
 | 17 | Cortex | [#7064](https://github.com/cortexproject/cortex/issues/7064) | docs/code | picked |
@@ -43,6 +43,10 @@ for an `Assisted-by:` commit trailer — we follow that everywhere.
 Projects covered: OpenTelemetry (Python, Python Contrib, docs site, Collector Contrib),
 Kepler, Prometheus, Inspektor Gadget, Thanos, Cortex, Jaeger, Perses, Fluentd — **10 projects**.
 
+| 25 | OpenTelemetry Python Contrib | [#1641 confluent-kafka semantic conventions](https://github.com/open-telemetry/opentelemetry-python-contrib/issues/1641) | code (Python) | PREPARED Oct 20, 2026 — verified: open, unassigned, 0 PRs ever. Implementation complete locally: branch confluent-kafka-semconv-1641, commit f2eb2614, 4 files +439/-14, 12 new tests (28 passed with core main; caveat: pinned uv.lock core lacks V1_44_0 — upstream's own tests fail the same way, flagged in PR draft). Gap analysis + PR draft in ~/workspace/eb1a-open-source/otel-1641-confluent-kafka/. NOT submitted — needs Preet's explicit go + his EasyCLA signing. Also logged as EB-1A Lane 2 in ~/workspace/eb1a-evidence/contributions/open-source-contributions-log.md |
+| 26 | OpenTelemetry Python Contrib | [#1640 celery semantic conventions](https://github.com/open-telemetry/opentelemetry-python-contrib/issues/1640) | code (Python) | backup — verified Oct 20, 2026: open, unassigned, 0 open PRs |
+| 27 | OpenTelemetry Python | [#1559 IPv6 Jaeger exporter](https://github.com/open-telemetry/opentelemetry-python/issues/1559) | code (Python) | backup — verified Oct 20, 2026: open, unassigned, 0 PRs ever |
+
 Status key: `picked` → `in progress` → `PR open` → `merged`
-| 23 | Inspektor Gadget | [#5631 trace_lsm Guide](https://github.com/inspektor-gadget/inspektor-gadget/issues/5631) | docs guide | PR open — https://github.com/inspektor-gadget/inspektor-gadget/pull/5896 (DCO check pending: sign-off email differs from commit author noreply — fix ready when he decides) |
+| 23 | Inspektor Gadget | [#5631 trace_lsm Guide](https://github.com/inspektor-gadget/inspektor-gadget/issues/5631) | docs guide | PR open — https://github.com/inspektor-gadget/inspektor-gadget/pull/5898 — DCO check PASSING (replaced #5896, now closed; commits re-signed as Preet Mehta <preetmehta1995@gmail.com> Oct 20) |
 | 24 | Inspektor Gadget | [#5632 trace_malloc Guide](https://github.com/inspektor-gadget/inspektor-gadget/issues/5632) | docs guide | skipped — already fixed by open PR #5858 |
